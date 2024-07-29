@@ -1,0 +1,190 @@
+@charset "utf-8";
+
+/* 	++++ Reset ++++
+
+	++++ Preloader ++++
+
+	++++ Home page ++++
+
+	++++ Navigation Bootstrap ++++
+
+	++++ Vimoe and galley hover ++++	
+
+	++++ Team ++++	
+
+	++++ Button Effect ++++
+
+	++++ Schedule ++++	
+
+	++++ Registration Form ++++	
+
+	++++ Pricing ++++	
+
+	++++ Sponsor ++++
+
+	++++ Subscribe ++++
+
+	++++ Contact ++++
+
+	++++ Footer ++++
+
+	*/
+
+
+
+/****************************/
+
+/** Reset **/
+
+/****************************/	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+/****************************/
+
+/** Preloader **/
+
+/****************************/
+
+
+
+.preloader {
+
+	background: none repeat scroll 0 0 #101012;
+
+	position: fixed;
+
+	z-index: 110;
+
+	height: 100%;
+
+	width: 100%;
+
+	overflow:hidden!important;
+
+}
+
+
+
+.status {
+
+	background: url("../img/loading.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+
+	float: none;
+
+	height: 104px;
+
+	left: calc(50% - 100px);
+
+	margin: 0 auto;
+
+	opacity: 1;
+
+	overflow-y: hidden;
+
+	position: absolute;
+
+	text-align: center;
+
+	top: calc(50% - 52px);
+
+	width: 100%;
+
+	z-index: 111;
+
+}
+
+
+
+
+
+
+
+.section-padding {
+
+	padding-top: 6%;
+
+	padding-bottom: 6%;
+
+}
+
+
+
+.section-padding#responsive{
+
+	padding-bottom:0;
+
+}
+
+
+
+.event-download-social-link.section-padding{
+
+	padding-top:0;
+
+}
+
+
+
+.nopadding {
+
+	padding: 0;
+
+}
+
+
+
+.inner {
+
+	padding-top: 28%;
+
+}
+
+
+
+hr {
+
+	width: 8%;
+
+	border: solid 1px #fb1b35;
+
+	margin-top:18px;
+
+	margin-bottom:25px;
+
+}
+
+
+
+#grid-gallery figcaption hr{
+
+	margin-top:0px;
+
+	margin-bottom:15px;
+
+}
+
+
+
+/****************************/
+
+/** Home page **/
+
+/****************************/
